@@ -1,4 +1,4 @@
-name: Deploy Planora Debt Tracker
+name: Deploy Planora Couple
 on:
   push:
     branches: [main]
